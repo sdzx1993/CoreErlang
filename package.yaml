@@ -45,3 +45,4 @@ tests:
     default-extensions:
     - DeriveDataTypeable
     - LambdaCase
+----
